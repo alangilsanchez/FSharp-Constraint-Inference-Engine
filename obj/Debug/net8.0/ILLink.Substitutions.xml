@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<linker>
+  <assembly fullname="IA1-T48B">
+    <resource name="FSharpSignatureData.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedData.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpSignatureDataB.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpSignatureCompressedDataB.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpOptimizationData.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedData.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpOptimizationDataB.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpOptimizationCompressedDataB.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpOptimizationInfo.IA1-T48B" action="remove"></resource>
+    <resource name="FSharpSignatureInfo.IA1-T48B" action="remove"></resource>
+  </assembly>
+</linker>

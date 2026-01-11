@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>IA1_T48B</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup><Compile Include="Pila.fs" /><Compile Include="Cola.fs" /><Compile Include="Busqueda.fs" />
+    
+    <Compile Include="OchoCasillas.fs" /><Compile Include="MundoAspiradora.fs" /><Compile Include="WolfGoatCabbage.fs" /><Compile Include="ZorroPatoSaco.fs" /><Compile Include="MrWolfMrGoatMrCabbage.fs" /><Compile Include="RutaStoG.fs" /><Compile Include="ChangoYPlatano.fs" /><Compile Include="NQueens.fs" /><Compile Include="Greedy.fs" /><Compile Include="AStar.fs" /><Compile Include="CostoUniforme.fs" /><Compile Include="DFSL.fs" /><Compile Include="IDFSL.fs" /><Compile Include="DFS.fs" />
+    <Compile Include="BFS.fs" /><Compile Include="Utils.fs" /><Compile Include="CSP.fs" /><Compile Include="NReinas.fs" /><Compile Include="Sudoku.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>

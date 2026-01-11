@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NwpQj50LQcQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alang\\Downloads\\Problemas\\IA1-T48B\\IA1-T48B.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alang\\.nuget\\packages\\fsharp.core\\10.0.101\\fsharp.core.10.0.101.nupkg.sha512"
+  ],
+  "logs": []
+}
